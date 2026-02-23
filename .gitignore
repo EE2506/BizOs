@@ -22,3 +22,8 @@ migrations/versions/*.pyc
 # OS
 .DS_Store
 Thumbs.db
+
+# Agent/Tooling
+.agent/
+.gemini/
+.cortex/
